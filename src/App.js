@@ -3,7 +3,6 @@ import React, { useEffect, useState } from 'react'
 import api from './api'
 import './index.css'
 
-import './Card.js'
 
 
 import logo from './assents/pokemon.png'
